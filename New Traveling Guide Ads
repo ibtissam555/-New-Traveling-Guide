@@ -5,16 +5,16 @@
 
 			"NetworkAds": "unity",
 
-			"BannerAdmob": "ca-app-pub-7724318695843695/9913893084",
-			"InterstitialAdmob": "ca-app-pub-7724318695843695/3767287134",
+			"BannerAdmob": "ca-app-pub-7724318695843695/7236342987",
+			"InterstitialAdmob": "ca-app-pub-7724318695843695/4469475195",
 
-			"BannerFacebook": "362337339315803_362337875982416",
-			"InterstitialFacebook": "362337339315803_362337875982416",
+			"BannerFacebook": "382646287334890_382646714001514",
+			"InterstitialFacebook": "382646287334890_382647357334783",
 			
-			"unityGameID": "4833597",
+			"unityGameID": "4868795",
 			"UnityPlacement": "Interstitial_Android",
 
-			"StartappAds": "206860667",
+			"StartappAds": "207425676",
 
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif",
